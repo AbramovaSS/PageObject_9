@@ -118,7 +118,6 @@ public class UiTestsSelenide extends BaseTest {
 
         assertThat(mainPage)
                 .verifyTotalPrice(expectedTotalPrice);
-        
 
 
     }
